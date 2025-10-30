@@ -1,6 +1,6 @@
 # Museum Of Candy
 
-Live Demo: **https://museum-of-candy-webb.netlify.app**
+Live Demo: **https://mueseum-of-candy-web.netlify.app**
 
 ---
 
