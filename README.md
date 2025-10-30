@@ -1,6 +1,6 @@
 # Museum Of Candy
 
-Deployed: **[Your Deployment Link Here]** (e.g., https://museumofcandy.netlify.app)
+Deployed: **https://museum-of-candy-webb.netlify.app**
 
 ---
 
